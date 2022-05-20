@@ -21,9 +21,9 @@ GT honor code violation.
   		  	   		   	 			  		 			 	 	 		 		 	
 -----do not edit anything above this line---  		  	   		   	 			  		 			 	 	 		 		 	
   		  	   		   	 			  		 			 	 	 		 		 	
-Student Name: Fanrui Yan (replace with your name)  		  	   		   	 			  		 			 	 	 		 		 	
-GT User ID: fyan40 (replace with your User ID)  		  	   		   	 			  		 			 	 	 		 		 	
-GT ID: 903660974 (replace with your GT ID)  		  	   		   	 			  		 			 	 	 		 		 	
+Student Name:  (replace with your name)  		  	   		   	 			  		 			 	 	 		 		 	
+GT User ID: (replace with your User ID)  		  	   		   	 			  		 			 	 	 		 		 	
+GT ID:  (replace with your GT ID)  		  	   		   	 			  		 			 	 	 		 		 	
 """  		  	   		   	 			  		 			 	 	 		 		 	
   		  	   		   	 			  		 			 	 	 		 		 	
 import numpy as np
@@ -34,7 +34,7 @@ def author():
     :return: The GT username of the student  		  	   		   	 			  		 			 	 	 		 		 	
     :rtype: str  		  	   		   	 			  		 			 	 	 		 		 	
     """  		  	   		   	 			  		 			 	 	 		 		 	
-    return "fyan40"  # replace tb34 with your Georgia Tech username.
+    return ""  # replace tb34 with your Georgia Tech username.
   		  	   		   	 			  		 			 	 	 		 		 	
   		  	   		   	 			  		 			 	 	 		 		 	
 def gtid():  		  	   		   	 			  		 			 	 	 		 		 	
